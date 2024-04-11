@@ -1,0 +1,3 @@
+﻿  UnitTest1.cpp
+D:\Programs\Visual Studio\Projects\Lab_10_4\UnitTest1\UnitTest1.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  UnitTest1.vcxproj -> D:\Programs\Visual Studio\Projects\Lab_10_4\x64\Debug\UnitTest1.dll

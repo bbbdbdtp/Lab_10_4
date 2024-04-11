@@ -1,0 +1,4 @@
+Number of lines: 8
+Maximum line length: 9
+Number of empty lines: 1
+Line starting and ending with specified characters: Found
